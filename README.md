@@ -16,5 +16,6 @@ skills for an entry-level role in data analytics.
 
 
 
-![image](https://github.com/HAQ-NAWAZ-MALIK/BM-Data-Analyst-Professional-Certificate-/assets/86514900/1062a143-7c39-4e0d-b341-ec5fbed76a2f)
+![image](https://github.com/HAQ-NAWAZ-MALIK/BM-Data-Analyst-Professional-Certificate-/assets/86514900/403670df-067c-4c67-b762-6145f976767e)
 
+[vERIFY](https://coursera.org/verify/professional-cert/R9G37SDW6Q65)
