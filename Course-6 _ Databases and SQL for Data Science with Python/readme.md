@@ -41,7 +41,3 @@ This folder contains data files and a Jupyter Notebook script that demonstrates 
 * _Chicago_Datasets_PeerAssign-v5.ipynb_ contains the script with ipython-sql code, which is used to query the datasets after they were loaded into a Db2 database on IBM Cloud.
 
 ---
-<p align="center">
-<img src="/Lakshmi Kadali Certificates/Lakshmi-Kadali-IBM-Data-Analyst-Professional-Certificate-Course-6-Coursera 7WPY8PG8AK3F.png" width=60% height=60%>
-
-
