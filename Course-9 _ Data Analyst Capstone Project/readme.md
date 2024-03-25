@@ -5,6 +5,7 @@ In this course you will apply various Data Analytics skills and techniques that 
 
 You will undertake the tasks of collecting data from multiple sources, performing exploratory data analysis, data wrangling and preparation, statistical analysis and mining the data, creating charts and plots to visualize data, and building an interactive dashboard. The project will culminate with a presentation of your data analysis report, with an executive summary for the various stakeholders in the organization. You will be assessed on both your work for the various stages in the Data Analysis process, as well as the final deliverable. 
 
+![image](https://github.com/HAQ-NAWAZ-MALIK/BM-Data-Analyst-Professional-Certificate-/assets/86514900/8d518cdd-7c6b-4083-9f2a-30351cc9da3e)
 
 ## Modules
 
@@ -40,5 +41,3 @@ You will undertake the tasks of collecting data from multiple sources, performin
 
 ---
 
-<p align="center">
-<img src="/Lakshmi%20Kadali%20Certificates/Lakshmi-Kadali-IBM-Data-Analyst-Professional-Certificate-Course-9-Coursera AEGL53TV4YBG.png" width=60% height=60%>
