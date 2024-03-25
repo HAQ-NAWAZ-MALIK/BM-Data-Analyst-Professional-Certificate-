@@ -17,7 +17,3 @@ This course covers some of the first steps in the development of data visualizat
 
 
 ---
-
-<p align="center">
-<img src="/Lakshmi Kadali Certificates/Lakshmi-Kadali-IBM-Data-Analyst-Professional-Certificate-Course-3-Coursera N4WJHB723LXU.png" width=60% height=60%>
-
