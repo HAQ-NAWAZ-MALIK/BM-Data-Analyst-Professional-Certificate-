@@ -15,6 +15,4 @@ This course is designed to provide you with basic working knowledge for using Ex
   
   ---
   
-<p align="center">
-<img src="/Lakshmi Kadali Certificates/Lakshmi-Kadali-IBM-Data-Analyst-Professional-Certificate-Course-2-Coursera MH5F5DFUHM37.png" width=60% height=60%>
 
