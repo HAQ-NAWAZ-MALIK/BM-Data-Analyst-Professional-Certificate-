@@ -1,5 +1,6 @@
 ## IBM Data Analyst
-
+![image](https://github.com/HAQ-NAWAZ-MALIK/BM-Data-Analyst-Professional-Certificate-/assets/86514900/f7eb8bc1-8c04-4d89-9e9a-42a5902fe949)
+[vERIFY](https://www.credly.com/badges/02d1af76-a051-435a-a3b5-68e1b898f58a/public_url)
 This IBM Professional Certificate is earned after successfully
 completing 9 courses on various topics in Data Analytics. The learner
 understands the core principles of data analysis and has worked
